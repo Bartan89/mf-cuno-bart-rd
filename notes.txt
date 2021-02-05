@@ -1,0 +1,1 @@
+1. Do we have to npm i in each microfrontend? 
