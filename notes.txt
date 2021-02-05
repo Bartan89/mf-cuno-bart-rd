@@ -1,1 +1,2 @@
 1. Do we have to npm i in each microfrontend? 
+2. What if you have 90 microfrontends, do you need to start them all? 
